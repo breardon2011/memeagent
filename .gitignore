@@ -1,0 +1,12 @@
+# Virtual environment
+env/
+
+# Data directory
+data/
+
+# Archive directory
+archive/
+
+# Python compiled files
+*.pyc
+__pycache__/
